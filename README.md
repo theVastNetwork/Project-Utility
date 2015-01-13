@@ -26,7 +26,7 @@ The majority of this project will be written in Java. More specificly it will be
 4. C/C++/C++11/C++14 (GOOD TO KNOW AS I USE IT OFTEN) <--- Seperate programming language(s)
 <hr>
 
-<h3>Rules:</h3>
+<h3><font color='red'>Rules:</font></h3>
 1. Always comment code. It helps others read it, and reduces the time it takes to go back and change things for later releases. You may not be the only one working on a portion of the project, so it will be in the best interest of all of use to have this luxury.
 
 2. Always write good quality code. Crap code that is barely functional can be submitted, but only in the case that you get stuck and need help. In this case, post an issue on the project, as it may not be seen otherwise.
